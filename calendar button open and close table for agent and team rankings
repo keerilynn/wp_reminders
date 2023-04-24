@@ -1,3 +1,4 @@
+###saving this hear because I don't want to keep it alive in WP. This creates a table with add to calendar buttons inside w/ custom text, using addevent. This is for agents and teams to remember open/close submission dates.
 <table style="width:100%">
   <tbody><tr>
     <th style="text-align: center">Agent &amp; Team Submission Open Date</th>
